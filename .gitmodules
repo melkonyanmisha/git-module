@@ -1,0 +1,3 @@
+[submodule "project_1"]
+	path = project_1
+	url = https://github.com/melkonyanmisha/git-submodule
