@@ -1,4 +1,5 @@
 import express from "express";
+import './project_1/module.js'
 
 const app = express()
 const port = 3000
